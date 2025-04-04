@@ -10,7 +10,9 @@ PubMed Semantic Search enhances the traditional PubMed experience by adding sema
 
 ### Home Page
 
-![Home Page](Images/home-page.png)
+<p align="center">
+  <img src="Images/home_page.png" alt="Home Page" width="600">
+</p>
 
 The home page features a clean search interface with options to select search methodology and result count.
 
