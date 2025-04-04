@@ -18,6 +18,10 @@ The home page features a clean search interface with options to select search me
 
 ### Search Results
 
+<p align="center">
+  <img src="Images/search_results.png" alt="Search Results" width="600">
+</p>
+
 Results are presented with clear article information, including titles, authors, publication details, and MeSH terms. Each result card shows the relevance score based on the search method used.
 
 ### Article Detail View
@@ -25,6 +29,10 @@ Results are presented with clear article information, including titles, authors,
 The detailed article view provides the complete abstract, all authors, journal information, and MeSH terms, with a direct link to view the article on PubMed.
 
 ### Search Progress Indication
+
+<p align="center">
+  <img src="Images/search_progress_indication.png" alt="HSearch Progress Indication" width="600">
+</p>
 
 Real-time search progress indicators show the system working through the search process.
 
